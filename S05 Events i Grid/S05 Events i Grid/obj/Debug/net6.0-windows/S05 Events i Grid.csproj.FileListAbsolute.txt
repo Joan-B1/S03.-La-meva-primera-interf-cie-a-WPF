@@ -1,0 +1,20 @@
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.exe
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.deps.json
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.runtimeconfig.json
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.dll
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.pdb
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.csproj.AssemblyReference.cache
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid_MarkupCompile.cache
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.g.resources
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.AssemblyInfoInputs.cache
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.AssemblyInfo.cs
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.csproj.CoreCompileInputs.cache
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.dll
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\refint\S05 Events i Grid.dll
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.pdb
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.genruntimeconfig.cache
+C:\Users\joanb\Desktop\DAM_2\M07 - Desenvolupament d'interfícies\UF1\UF1_2any\Projectes\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\ref\S05 Events i Grid.dll
